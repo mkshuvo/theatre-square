@@ -1,0 +1,11 @@
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp2.2\TheatreSquare.deps.json
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp2.2\TheatreSquare.runtimeconfig.json
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp2.2\TheatreSquare.runtimeconfig.dev.json
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp2.2\TheatreSquare.dll
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp2.2\TheatreSquare.pdb
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.csprojAssemblyReference.cache
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.csproj.CoreCompileInputs.cache
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.AssemblyInfoInputs.cache
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.AssemblyInfo.cs
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.dll
+C:\Users\grid\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp2.2\TheatreSquare.pdb
